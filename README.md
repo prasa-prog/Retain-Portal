@@ -17,13 +17,13 @@ This Project Done voluntarily to Minimize Labour Absenteeism and Turnover
 <img width="1290" height="960" alt="image" src="https://github.com/user-attachments/assets/61a22036-a4af-4e3f-ba01-84e83bc52c64" />
 
 ## Context
-Since 2024 "xyz" company undergo,
+Since 2024 "Name Withheld" company undergo,
 
- AVERAGE MONTHLY ABASENTIEESM RATE AS 4.03%
+ AVERAGE MONTHLY ABSENTIEESM RATE OF 4.03%
  
- AVERAGE MONTHLY LTO RATE AS 6.7%
+ AVERAGE MONTHLY LTO RATE OF 6.7%
  
- CUMULATIVE LTO AS 47%
+ CUMULATIVE LTO OF 47%
  
 Hence effective attention towards employee management is required.
 ## Presumption
@@ -32,7 +32,7 @@ Hence effective attention towards employee management is required.
 
 👨‍🏫 while principle of diminishing marginal utility states that as more of a good or service is consumed, the marginal benefit of the next unit decreases.
 
-👨‍🏫 According to the above scenario employees of "xyz" company elaborate high rate of diminishing marginal utility,Hence they tend to be diverted.
+👨‍🏫 According to the above scenario employees of "Name Withheld" company exhibits high rate of diminishing marginal utility,Hence they tend to be diverted.
 
 ## Methodology
 
