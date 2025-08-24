@@ -19,11 +19,11 @@ This Project Done voluntarily to Minimize Labour Absenteeism and Turnover
 ## Context
 Since 2024 "Name Withheld" company undergo,
 
- AVERAGE MONTHLY ABSENTIEESM RATE OF 4.03%
+ 🚀 AVERAGE MONTHLY ABSENTIEESM RATE OF 4.03%
  
- AVERAGE MONTHLY LTO RATE OF 6.7%
+ 🚀 AVERAGE MONTHLY LTO RATE OF 6.7%
  
- CUMULATIVE LTO OF 47%
+ 🚀 CUMULATIVE LTO OF 47%
  
 Hence effective attention towards employee management is required.
 ## Presumption
