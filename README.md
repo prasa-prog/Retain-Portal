@@ -36,7 +36,7 @@ Hence effective attention towards employee management is required.
 
 ## Methodology
 
-See Methodology here :
+See Methodology here : https://github.com/prasa-prog/Retain-Portal/blob/main/Methodology.pdf
 
 ## Data Analysis
 
